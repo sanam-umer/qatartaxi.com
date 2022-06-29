@@ -1,9 +1,9 @@
 .banner
 {
     background-image: url('https://www.honda.co.jp/content/site/www/news/pc/2016-new/4160204-odyssey/_jcr_content/par_news-body/newscolumn/par_news-col-1/newsimage.img.jpg/1571109652435.jpg');
-    width: 100%;
-    height: 400px;
-    background-position: center top;
+ 
+    height: 480px;
+    background-position: right top;
     background-size:auto;
     background-repeat: no-repeat;
 }
@@ -28,8 +28,8 @@
     text-decoration: none;
     background-color: var(--primary-color);
     color: #fff;
-   
-    padding: 15px 20px;
+  height: auto;
+    padding: 22px 20px;
     border-radius: 3px;
     font-size:30px;
     font-weight: bold;
